@@ -1,0 +1,7 @@
+**[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız**
+
+Dizideki root 7 olarak belirlenir
+7 nin sağında 8, 8 in sağında 9 bulunur
+7 nin solunda 5, 5 in sağında 6 ve solunda 1 bulunur
+1 in sağında 3 bulunur
+3 ün sağında 4 ve solunda 2 bulunur
